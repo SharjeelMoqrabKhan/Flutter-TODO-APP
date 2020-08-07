@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237944925464",
+    "firebase_url": "https://sharjeel-todo-app.firebaseio.com",
+    "project_id": "sharjeel-todo-app",
+    "storage_bucket": "sharjeel-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237944925464:android:6b0434e2c708d40bbe826d",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237944925464-jionia1e0e0tan25jef9p50dqrmmjgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSmCfb_pGRj2MLi8hMApNqnmk8lgQYHbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237944925464-jionia1e0e0tan25jef9p50dqrmmjgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
